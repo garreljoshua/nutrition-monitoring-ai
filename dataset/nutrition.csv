@@ -1,0 +1,501 @@
+age,gender,weight,height,status
+12,0,7.6,76.9,Risiko Gizi Kurang
+17,0,8.5,89.7,Risiko Gizi Kurang
+43,1,8.7,75.1,Risiko Gizi Kurang
+51,0,9.1,81.5,Risiko Gizi Kurang
+30,0,10.2,96.1,Risiko Gizi Kurang
+48,0,8.1,92.9,Risiko Gizi Kurang
+49,0,18.9,101.7,Gizi Baik
+35,0,6.6,78.8,Risiko Gizi Buruk
+26,1,12.2,95.3,Gizi Baik
+54,1,7.0,74.5,Risiko Gizi Buruk
+14,0,7.5,66.3,Risiko Gizi Buruk
+25,0,5.9,73.6,Risiko Gizi Buruk
+36,0,18.3,101.4,Gizi Baik
+21,1,8.5,80.8,Risiko Gizi Kurang
+58,0,6.1,82.2,Risiko Gizi Buruk
+47,0,8.5,70.6,Risiko Gizi Kurang
+20,0,11.7,83.7,Risiko Gizi Kurang
+38,1,18.3,119.6,Gizi Baik
+30,0,11.0,73.8,Risiko Gizi Kurang
+27,1,11.4,83.8,Risiko Gizi Kurang
+20,1,15.3,80.9,Gizi Baik
+47,1,6.8,88.3,Risiko Gizi Buruk
+48,0,15.4,113.6,Gizi Baik
+57,1,6.2,78.7,Risiko Gizi Buruk
+39,1,14.4,102.5,Gizi Baik
+41,1,5.1,88.5,Risiko Gizi Buruk
+48,1,14.7,104.3,Gizi Baik
+24,0,7.1,83.3,Risiko Gizi Buruk
+41,0,7.4,73.6,Risiko Gizi Buruk
+39,1,6.0,81.8,Risiko Gizi Buruk
+52,1,5.8,84.0,Risiko Gizi Buruk
+19,0,9.2,73.5,Risiko Gizi Kurang
+25,0,9.0,76.7,Risiko Gizi Kurang
+55,0,11.0,99.9,Gizi Baik
+43,1,14.7,95.5,Gizi Baik
+36,1,5.9,89.9,Risiko Gizi Buruk
+35,0,5.3,63.7,Risiko Gizi Buruk
+31,0,5.4,84.9,Risiko Gizi Buruk
+33,1,8.0,88.7,Risiko Gizi Buruk
+26,0,5.5,65.7,Risiko Gizi Buruk
+49,0,15.7,94.8,Gizi Baik
+20,1,10.9,93.1,Risiko Gizi Kurang
+17,0,15.4,105.8,Gizi Baik
+55,1,16.0,101.0,Gizi Baik
+39,0,8.3,80.8,Risiko Gizi Kurang
+35,0,10.6,72.3,Risiko Gizi Kurang
+37,0,5.3,75.7,Risiko Gizi Buruk
+57,0,5.5,67.5,Risiko Gizi Buruk
+24,1,10.8,96.2,Risiko Gizi Kurang
+12,1,17.3,97.8,Gizi Baik
+19,1,10.5,92.1,Gizi Baik
+29,0,10.2,98.3,Gizi Baik
+53,0,12.5,86.9,Gizi Baik
+55,0,10.5,99.4,Risiko Gizi Kurang
+54,1,10.5,112.6,Gizi Baik
+28,1,9.3,96.5,Risiko Gizi Kurang
+41,1,10.0,97.5,Risiko Gizi Kurang
+14,0,10.1,76.8,Risiko Gizi Kurang
+31,1,18.9,89.6,Gizi Baik
+15,0,11.2,112.3,Gizi Baik
+40,0,5.7,67.0,Risiko Gizi Buruk
+37,0,5.9,87.1,Risiko Gizi Buruk
+57,0,7.2,88.4,Risiko Gizi Buruk
+25,0,15.2,82.5,Gizi Baik
+42,1,7.0,64.5,Risiko Gizi Buruk
+43,1,10.0,89.3,Risiko Gizi Kurang
+30,1,6.7,67.2,Risiko Gizi Buruk
+25,1,11.8,96.6,Gizi Baik
+43,0,6.6,81.0,Risiko Gizi Buruk
+59,1,15.5,114.5,Gizi Baik
+31,0,14.5,109.7,Gizi Baik
+40,1,8.7,72.1,Risiko Gizi Kurang
+37,1,7.8,73.2,Risiko Gizi Buruk
+20,1,10.5,74.8,Risiko Gizi Kurang
+19,0,18.3,108.4,Gizi Baik
+45,0,5.8,80.4,Risiko Gizi Buruk
+46,1,11.6,91.2,Risiko Gizi Kurang
+55,0,17.8,86.1,Gizi Baik
+49,1,10.7,101.9,Gizi Baik
+29,0,9.2,87.5,Risiko Gizi Kurang
+56,1,7.1,81.3,Risiko Gizi Buruk
+48,1,10.7,100.1,Gizi Baik
+31,0,5.5,60.3,Risiko Gizi Buruk
+34,0,10.0,78.4,Risiko Gizi Kurang
+36,1,8.8,92.0,Risiko Gizi Kurang
+19,1,11.2,117.6,Gizi Baik
+32,0,12.6,99.2,Gizi Baik
+20,0,14.7,110.5,Gizi Baik
+54,1,10.6,83.0,Risiko Gizi Kurang
+17,0,9.2,95.7,Risiko Gizi Kurang
+53,1,7.9,60.8,Risiko Gizi Buruk
+53,0,15.8,98.0,Gizi Baik
+51,1,11.9,102.5,Gizi Baik
+42,0,6.6,76.1,Risiko Gizi Buruk
+44,1,5.1,84.7,Risiko Gizi Buruk
+25,1,11.4,92.5,Gizi Baik
+34,0,6.9,86.4,Risiko Gizi Buruk
+42,0,13.0,108.6,Gizi Baik
+25,1,12.0,96.1,Risiko Gizi Kurang
+38,1,5.6,89.0,Risiko Gizi Buruk
+16,1,12.0,86.9,Risiko Gizi Kurang
+39,0,10.2,73.6,Risiko Gizi Kurang
+40,1,8.1,98.0,Risiko Gizi Kurang
+19,1,8.8,81.2,Risiko Gizi Kurang
+39,0,11.8,80.7,Risiko Gizi Kurang
+21,1,11.3,98.1,Risiko Gizi Kurang
+56,1,10.1,86.0,Risiko Gizi Kurang
+32,1,6.5,60.7,Risiko Gizi Buruk
+49,1,7.8,91.4,Risiko Gizi Kurang
+25,1,14.2,116.0,Gizi Baik
+29,0,10.6,92.0,Risiko Gizi Kurang
+45,1,17.2,85.1,Gizi Baik
+17,1,10.3,72.2,Risiko Gizi Kurang
+36,1,15.5,90.2,Gizi Baik
+43,1,11.2,117.2,Gizi Baik
+38,0,6.6,67.7,Risiko Gizi Buruk
+31,1,15.6,118.6,Gizi Baik
+36,1,11.7,94.1,Risiko Gizi Kurang
+18,0,6.8,61.6,Risiko Gizi Buruk
+23,1,11.9,73.6,Risiko Gizi Kurang
+57,0,10.8,72.2,Risiko Gizi Kurang
+30,0,14.5,100.8,Gizi Baik
+59,0,14.1,94.6,Gizi Baik
+13,0,6.1,61.1,Risiko Gizi Buruk
+50,1,5.3,67.7,Risiko Gizi Buruk
+47,0,9.7,89.6,Risiko Gizi Kurang
+29,1,10.8,112.0,Gizi Baik
+52,0,9.8,86.2,Risiko Gizi Kurang
+38,0,5.1,80.8,Risiko Gizi Buruk
+54,0,9.7,71.9,Risiko Gizi Kurang
+32,1,7.9,86.7,Risiko Gizi Kurang
+22,0,11.3,88.6,Risiko Gizi Kurang
+60,0,5.5,86.9,Risiko Gizi Buruk
+50,0,7.9,63.5,Risiko Gizi Buruk
+35,0,11.1,76.8,Risiko Gizi Kurang
+19,1,18.2,115.0,Gizi Baik
+32,0,6.0,69.4,Risiko Gizi Buruk
+16,1,18.9,107.3,Gizi Baik
+24,0,8.7,85.8,Risiko Gizi Kurang
+42,0,6.7,85.6,Risiko Gizi Buruk
+24,1,7.3,73.7,Risiko Gizi Buruk
+36,0,10.2,81.8,Risiko Gizi Kurang
+42,1,10.8,91.8,Gizi Baik
+19,1,10.0,82.0,Gizi Baik
+27,0,10.4,74.3,Risiko Gizi Kurang
+19,1,5.5,63.3,Risiko Gizi Buruk
+17,1,6.0,82.7,Risiko Gizi Buruk
+18,0,16.2,118.5,Gizi Baik
+50,1,10.4,84.6,Risiko Gizi Kurang
+45,0,10.1,72.7,Risiko Gizi Kurang
+58,1,18.9,87.5,Gizi Baik
+58,1,7.6,79.7,Risiko Gizi Buruk
+21,0,9.3,94.0,Risiko Gizi Kurang
+50,0,12.2,113.1,Gizi Baik
+13,0,8.1,72.7,Risiko Gizi Kurang
+59,0,8.0,63.0,Risiko Gizi Buruk
+50,0,7.1,66.8,Risiko Gizi Buruk
+13,1,11.0,89.7,Risiko Gizi Kurang
+49,0,11.0,72.4,Risiko Gizi Kurang
+38,1,18.5,107.9,Gizi Baik
+29,0,17.7,81.4,Gizi Baik
+47,0,11.6,90.0,Risiko Gizi Kurang
+25,1,11.6,94.0,Gizi Baik
+50,1,19.7,119.1,Gizi Baik
+33,0,7.0,77.6,Risiko Gizi Kurang
+30,0,13.1,88.9,Gizi Baik
+37,1,9.9,92.9,Risiko Gizi Kurang
+26,1,5.6,71.2,Risiko Gizi Buruk
+58,1,5.9,81.8,Risiko Gizi Buruk
+41,0,5.5,76.9,Risiko Gizi Buruk
+59,1,10.7,96.2,Risiko Gizi Kurang
+13,0,10.5,85.9,Risiko Gizi Kurang
+35,0,9.5,99.7,Risiko Gizi Kurang
+42,0,10.3,73.8,Risiko Gizi Kurang
+60,1,16.0,96.6,Gizi Baik
+39,1,16.7,104.0,Gizi Baik
+47,0,7.1,78.2,Risiko Gizi Buruk
+18,0,10.2,74.9,Risiko Gizi Kurang
+27,0,17.5,102.1,Gizi Baik
+47,0,6.9,70.7,Risiko Gizi Buruk
+14,0,10.2,82.5,Risiko Gizi Kurang
+57,0,5.3,65.5,Risiko Gizi Buruk
+60,0,11.4,77.3,Risiko Gizi Kurang
+13,0,16.0,103.5,Gizi Baik
+40,1,8.3,75.4,Risiko Gizi Kurang
+29,0,5.6,87.3,Risiko Gizi Buruk
+16,1,5.5,85.8,Risiko Gizi Buruk
+48,1,11.3,90.6,Risiko Gizi Kurang
+38,0,7.9,72.0,Risiko Gizi Buruk
+49,1,11.0,83.9,Gizi Baik
+35,0,10.2,99.0,Risiko Gizi Kurang
+12,1,5.2,76.2,Risiko Gizi Buruk
+15,1,7.7,77.8,Risiko Gizi Kurang
+60,1,8.5,77.2,Risiko Gizi Kurang
+13,0,7.8,72.7,Risiko Gizi Kurang
+17,0,19.0,111.6,Gizi Baik
+47,1,13.5,119.0,Gizi Baik
+14,0,10.6,113.6,Gizi Baik
+53,1,10.7,104.3,Gizi Baik
+17,0,17.9,114.4,Gizi Baik
+58,0,8.5,92.0,Risiko Gizi Kurang
+56,0,9.7,78.9,Risiko Gizi Kurang
+22,1,5.2,69.8,Risiko Gizi Buruk
+23,0,19.7,110.8,Gizi Baik
+14,1,11.5,86.9,Risiko Gizi Kurang
+12,1,7.5,65.4,Risiko Gizi Buruk
+56,0,5.8,84.6,Risiko Gizi Buruk
+49,1,6.6,80.8,Risiko Gizi Buruk
+27,1,6.5,64.1,Risiko Gizi Buruk
+27,1,6.6,89.0,Risiko Gizi Buruk
+30,0,7.5,60.8,Risiko Gizi Buruk
+36,1,11.0,81.5,Risiko Gizi Kurang
+22,1,15.9,83.2,Gizi Baik
+48,0,13.3,83.3,Gizi Baik
+52,1,7.1,79.8,Risiko Gizi Buruk
+15,0,13.4,108.9,Gizi Baik
+35,1,11.2,90.7,Risiko Gizi Kurang
+41,1,7.3,74.7,Risiko Gizi Buruk
+25,0,8.2,75.2,Risiko Gizi Kurang
+22,1,11.7,87.6,Risiko Gizi Kurang
+36,0,7.1,93.5,Risiko Gizi Kurang
+27,1,11.6,87.0,Risiko Gizi Kurang
+14,1,6.0,83.9,Risiko Gizi Buruk
+36,1,10.4,83.3,Gizi Baik
+18,0,17.3,104.0,Gizi Baik
+38,0,8.3,93.3,Risiko Gizi Kurang
+43,1,13.8,83.6,Gizi Baik
+37,1,7.6,81.5,Risiko Gizi Buruk
+48,1,6.6,88.8,Risiko Gizi Buruk
+57,1,10.0,75.3,Risiko Gizi Kurang
+60,1,7.6,95.4,Risiko Gizi Kurang
+34,0,11.6,91.0,Risiko Gizi Kurang
+60,1,6.8,74.4,Risiko Gizi Buruk
+58,1,7.4,93.8,Risiko Gizi Kurang
+46,0,13.2,97.7,Gizi Baik
+15,0,14.6,92.8,Gizi Baik
+33,0,8.4,83.8,Risiko Gizi Kurang
+48,1,7.2,66.9,Risiko Gizi Buruk
+14,0,15.8,114.1,Gizi Baik
+60,1,13.5,88.7,Gizi Baik
+44,0,18.0,108.8,Gizi Baik
+26,1,12.1,107.9,Gizi Baik
+23,1,16.7,105.6,Gizi Baik
+56,1,6.5,70.7,Risiko Gizi Buruk
+42,1,10.8,91.0,Risiko Gizi Kurang
+29,1,11.5,94.0,Risiko Gizi Kurang
+20,0,7.2,69.6,Risiko Gizi Buruk
+20,0,7.5,84.7,Risiko Gizi Buruk
+57,1,18.9,97.8,Gizi Baik
+47,1,16.0,85.3,Gizi Baik
+17,1,18.5,118.5,Gizi Baik
+40,1,7.9,64.5,Risiko Gizi Buruk
+33,1,7.6,85.7,Risiko Gizi Kurang
+34,1,11.4,112.3,Gizi Baik
+24,1,18.8,87.6,Gizi Baik
+21,0,7.2,63.4,Risiko Gizi Buruk
+39,1,16.3,118.1,Gizi Baik
+50,0,16.0,107.5,Gizi Baik
+59,1,10.5,90.0,Risiko Gizi Kurang
+23,0,14.6,117.4,Gizi Baik
+18,0,5.3,62.3,Risiko Gizi Buruk
+50,0,6.1,61.0,Risiko Gizi Buruk
+59,1,6.7,62.1,Risiko Gizi Buruk
+27,1,6.7,71.5,Risiko Gizi Buruk
+22,1,11.4,78.6,Risiko Gizi Kurang
+37,0,8.5,87.6,Risiko Gizi Kurang
+18,1,6.4,65.5,Risiko Gizi Buruk
+15,1,17.7,114.6,Gizi Baik
+47,0,10.6,95.1,Risiko Gizi Kurang
+31,1,9.6,74.6,Risiko Gizi Kurang
+41,0,9.7,70.7,Risiko Gizi Kurang
+28,1,5.4,69.0,Risiko Gizi Buruk
+37,1,5.4,65.6,Risiko Gizi Buruk
+50,0,8.7,89.9,Risiko Gizi Kurang
+31,0,11.9,85.3,Risiko Gizi Kurang
+41,1,5.3,81.7,Risiko Gizi Buruk
+26,1,8.9,97.8,Risiko Gizi Kurang
+53,0,9.3,70.0,Risiko Gizi Kurang
+49,1,16.1,97.7,Gizi Baik
+29,0,10.5,75.7,Risiko Gizi Kurang
+47,1,7.6,88.4,Risiko Gizi Kurang
+51,0,8.8,75.7,Risiko Gizi Kurang
+48,0,7.0,60.1,Risiko Gizi Buruk
+38,0,10.6,117.0,Gizi Baik
+22,0,11.2,87.4,Risiko Gizi Kurang
+23,0,12.6,115.0,Gizi Baik
+25,0,8.9,86.4,Risiko Gizi Kurang
+30,1,5.8,72.8,Risiko Gizi Buruk
+19,1,10.8,87.7,Risiko Gizi Kurang
+45,1,10.0,97.3,Risiko Gizi Kurang
+47,0,9.0,97.9,Risiko Gizi Kurang
+32,1,11.1,76.7,Risiko Gizi Kurang
+45,0,11.5,85.0,Risiko Gizi Kurang
+38,0,10.6,88.7,Gizi Baik
+38,1,5.2,63.0,Risiko Gizi Buruk
+31,0,16.0,86.0,Gizi Baik
+32,0,7.2,91.2,Risiko Gizi Kurang
+17,0,7.7,89.8,Risiko Gizi Buruk
+59,0,11.3,92.8,Risiko Gizi Kurang
+31,1,8.6,92.9,Risiko Gizi Kurang
+59,1,13.7,119.6,Gizi Baik
+16,0,7.9,80.5,Risiko Gizi Buruk
+38,1,7.1,91.8,Risiko Gizi Kurang
+25,0,5.8,87.6,Risiko Gizi Buruk
+39,0,16.6,108.7,Gizi Baik
+40,1,14.1,91.1,Gizi Baik
+49,0,6.3,87.5,Risiko Gizi Buruk
+51,0,19.6,82.1,Gizi Baik
+57,0,13.7,113.1,Gizi Baik
+25,0,7.0,75.0,Risiko Gizi Kurang
+29,0,11.5,98.1,Gizi Baik
+58,0,5.8,65.5,Risiko Gizi Buruk
+34,0,15.6,112.3,Gizi Baik
+47,0,5.5,65.0,Risiko Gizi Buruk
+55,0,7.5,78.2,Risiko Gizi Buruk
+26,0,8.0,74.6,Risiko Gizi Kurang
+29,1,17.8,83.7,Gizi Baik
+59,0,19.5,111.5,Gizi Baik
+51,0,12.8,119.7,Gizi Baik
+22,0,15.7,104.9,Gizi Baik
+45,0,8.7,76.9,Risiko Gizi Kurang
+59,1,7.8,81.0,Risiko Gizi Kurang
+49,0,19.6,100.9,Gizi Baik
+44,0,8.0,66.0,Risiko Gizi Buruk
+52,1,11.6,88.8,Risiko Gizi Kurang
+37,0,14.4,105.3,Gizi Baik
+35,1,7.3,80.8,Risiko Gizi Buruk
+23,0,9.1,95.2,Risiko Gizi Kurang
+46,1,19.4,95.7,Gizi Baik
+26,1,7.4,83.5,Risiko Gizi Buruk
+54,1,9.5,97.1,Risiko Gizi Kurang
+58,0,12.4,86.1,Gizi Baik
+51,1,9.7,93.4,Risiko Gizi Kurang
+20,1,9.4,96.9,Risiko Gizi Kurang
+28,0,5.6,89.0,Risiko Gizi Buruk
+53,0,7.9,82.0,Risiko Gizi Kurang
+41,1,16.4,98.9,Gizi Baik
+59,1,9.2,73.2,Risiko Gizi Kurang
+42,1,18.5,97.2,Gizi Baik
+21,0,8.6,94.2,Risiko Gizi Kurang
+54,0,7.6,71.0,Risiko Gizi Kurang
+30,0,5.6,64.9,Risiko Gizi Buruk
+28,0,15.3,111.7,Gizi Baik
+26,0,8.0,95.4,Risiko Gizi Kurang
+45,1,17.5,88.4,Gizi Baik
+43,0,8.0,63.5,Risiko Gizi Buruk
+46,0,9.4,85.7,Risiko Gizi Kurang
+50,0,5.9,60.3,Risiko Gizi Buruk
+27,0,6.4,69.5,Risiko Gizi Buruk
+45,1,8.9,76.5,Risiko Gizi Kurang
+31,1,7.8,73.5,Risiko Gizi Kurang
+41,0,16.2,80.6,Gizi Baik
+35,0,12.1,85.8,Gizi Baik
+23,0,12.0,93.0,Risiko Gizi Kurang
+25,0,6.5,86.0,Risiko Gizi Buruk
+44,0,5.6,78.9,Risiko Gizi Buruk
+36,1,12.4,84.8,Gizi Baik
+47,0,10.7,87.3,Risiko Gizi Kurang
+46,0,10.3,98.1,Risiko Gizi Kurang
+31,1,12.5,92.0,Gizi Baik
+50,0,19.8,82.4,Gizi Baik
+58,0,9.6,72.0,Risiko Gizi Kurang
+15,1,7.0,68.9,Risiko Gizi Buruk
+34,0,16.8,111.7,Gizi Baik
+21,0,11.6,79.6,Risiko Gizi Kurang
+52,0,8.0,72.0,Risiko Gizi Kurang
+15,1,6.6,69.4,Risiko Gizi Buruk
+46,1,12.1,103.2,Gizi Baik
+33,0,7.7,76.5,Risiko Gizi Kurang
+24,0,11.5,77.4,Risiko Gizi Kurang
+55,0,9.4,90.1,Risiko Gizi Kurang
+52,0,10.1,88.1,Gizi Baik
+29,0,7.1,66.4,Risiko Gizi Buruk
+17,1,9.0,91.4,Risiko Gizi Kurang
+33,1,6.8,86.2,Risiko Gizi Buruk
+12,0,9.8,79.4,Risiko Gizi Kurang
+51,0,17.2,84.7,Gizi Baik
+55,0,13.8,96.3,Gizi Baik
+49,1,11.2,87.9,Risiko Gizi Kurang
+57,1,7.4,64.0,Risiko Gizi Buruk
+39,0,6.5,78.6,Risiko Gizi Buruk
+44,0,9.5,98.7,Risiko Gizi Kurang
+47,0,8.5,79.3,Risiko Gizi Kurang
+28,1,7.2,75.0,Risiko Gizi Kurang
+35,0,10.3,85.1,Risiko Gizi Kurang
+47,1,7.4,81.4,Risiko Gizi Kurang
+60,1,6.3,69.0,Risiko Gizi Buruk
+41,0,13.2,100.6,Gizi Baik
+56,0,15.0,118.3,Gizi Baik
+53,1,11.7,107.6,Gizi Baik
+16,0,9.4,87.9,Risiko Gizi Kurang
+12,0,19.8,87.0,Gizi Baik
+47,1,7.7,61.3,Risiko Gizi Buruk
+55,0,7.2,66.7,Risiko Gizi Buruk
+33,0,6.3,67.8,Risiko Gizi Buruk
+37,1,7.8,74.7,Risiko Gizi Kurang
+47,1,13.0,88.2,Gizi Baik
+20,0,6.3,84.1,Risiko Gizi Buruk
+28,1,15.1,101.9,Gizi Baik
+27,1,7.8,71.9,Risiko Gizi Buruk
+44,1,7.1,65.8,Risiko Gizi Buruk
+14,1,12.8,99.1,Gizi Baik
+55,1,19.4,116.1,Gizi Baik
+27,0,16.4,109.2,Gizi Baik
+12,0,13.2,111.9,Gizi Baik
+36,1,10.6,76.9,Risiko Gizi Kurang
+33,0,9.8,95.9,Risiko Gizi Kurang
+60,1,17.5,86.4,Gizi Baik
+29,0,5.1,68.7,Risiko Gizi Buruk
+51,1,8.8,72.6,Risiko Gizi Kurang
+31,1,7.2,71.3,Risiko Gizi Buruk
+54,1,17.6,92.5,Gizi Baik
+59,0,10.0,76.4,Risiko Gizi Kurang
+45,0,7.7,89.4,Risiko Gizi Buruk
+18,0,5.9,82.8,Risiko Gizi Buruk
+36,0,6.8,88.9,Risiko Gizi Buruk
+44,0,11.7,70.8,Risiko Gizi Kurang
+21,0,6.7,61.7,Risiko Gizi Buruk
+35,1,6.2,88.8,Risiko Gizi Buruk
+57,0,7.3,96.0,Risiko Gizi Kurang
+44,1,9.4,76.1,Risiko Gizi Kurang
+20,0,11.8,85.6,Risiko Gizi Kurang
+31,1,9.4,77.1,Risiko Gizi Kurang
+16,0,7.1,88.8,Risiko Gizi Kurang
+25,1,7.2,70.0,Risiko Gizi Buruk
+32,0,10.7,108.0,Gizi Baik
+30,1,5.3,60.9,Risiko Gizi Buruk
+46,0,5.7,61.2,Risiko Gizi Buruk
+12,1,7.7,77.8,Risiko Gizi Buruk
+21,1,11.3,94.2,Risiko Gizi Kurang
+59,1,6.4,88.1,Risiko Gizi Buruk
+46,1,7.8,85.6,Risiko Gizi Kurang
+32,1,7.8,89.7,Risiko Gizi Buruk
+12,0,7.9,72.0,Risiko Gizi Buruk
+54,1,6.1,79.6,Risiko Gizi Buruk
+18,0,13.9,82.2,Gizi Baik
+38,0,7.8,82.1,Risiko Gizi Buruk
+26,1,10.5,110.4,Gizi Baik
+51,1,18.7,82.8,Gizi Baik
+40,1,7.6,87.6,Risiko Gizi Buruk
+40,1,8.4,96.0,Risiko Gizi Kurang
+29,1,12.3,95.7,Gizi Baik
+36,1,7.1,79.4,Risiko Gizi Buruk
+49,0,10.2,93.8,Risiko Gizi Kurang
+46,0,18.5,83.4,Gizi Baik
+45,0,7.4,68.8,Risiko Gizi Buruk
+17,1,6.8,72.7,Risiko Gizi Buruk
+18,1,19.2,95.0,Gizi Baik
+26,0,15.8,100.6,Gizi Baik
+43,1,15.3,88.3,Gizi Baik
+52,0,11.0,88.0,Gizi Baik
+15,1,13.8,112.9,Gizi Baik
+57,1,19.4,98.9,Gizi Baik
+36,1,7.6,72.4,Risiko Gizi Kurang
+22,1,7.9,68.4,Risiko Gizi Buruk
+55,1,12.8,116.3,Gizi Baik
+37,0,9.0,88.3,Risiko Gizi Kurang
+45,1,8.4,77.2,Risiko Gizi Kurang
+56,0,8.0,86.7,Risiko Gizi Buruk
+56,0,7.4,70.5,Risiko Gizi Buruk
+21,1,18.0,115.5,Gizi Baik
+37,1,6.1,88.7,Risiko Gizi Buruk
+39,1,6.3,89.7,Risiko Gizi Buruk
+56,0,5.4,67.3,Risiko Gizi Buruk
+27,1,7.6,94.6,Risiko Gizi Kurang
+23,1,17.9,118.7,Gizi Baik
+57,0,11.8,98.3,Risiko Gizi Kurang
+33,0,11.5,99.6,Gizi Baik
+47,0,6.5,63.9,Risiko Gizi Buruk
+42,1,10.5,73.7,Risiko Gizi Kurang
+13,1,16.7,104.4,Gizi Baik
+18,0,6.1,61.1,Risiko Gizi Buruk
+42,0,19.0,86.7,Gizi Baik
+31,0,15.8,109.8,Gizi Baik
+44,0,19.2,82.7,Gizi Baik
+58,1,11.1,118.4,Gizi Baik
+42,0,6.5,64.3,Risiko Gizi Buruk
+36,1,5.4,63.3,Risiko Gizi Buruk
+23,1,8.0,70.6,Risiko Gizi Buruk
+58,0,19.4,102.2,Gizi Baik
+23,1,7.8,66.3,Risiko Gizi Buruk
+26,0,8.5,86.1,Risiko Gizi Kurang
+19,1,6.0,75.0,Risiko Gizi Buruk
+46,0,7.5,81.4,Risiko Gizi Kurang
+27,1,10.9,83.4,Risiko Gizi Kurang
+36,1,11.6,77.0,Risiko Gizi Kurang
+32,1,9.4,95.7,Risiko Gizi Kurang
+37,0,8.8,88.9,Risiko Gizi Kurang
+32,0,6.7,88.7,Risiko Gizi Buruk
+26,1,8.0,84.0,Risiko Gizi Kurang
+13,1,10.5,73.5,Risiko Gizi Kurang
+48,0,7.5,84.7,Risiko Gizi Buruk
+33,1,8.2,80.4,Risiko Gizi Kurang
+28,1,5.2,68.7,Risiko Gizi Buruk
+17,1,9.0,95.6,Risiko Gizi Kurang
+59,0,15.2,117.6,Gizi Baik
+15,1,8.2,93.5,Risiko Gizi Kurang
+59,0,7.3,74.4,Risiko Gizi Buruk
+59,1,7.3,65.8,Risiko Gizi Buruk
+56,0,17.9,118.0,Gizi Baik
